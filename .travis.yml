@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: At1jMc9dIvFweXQdS7mS5zaDZM5c31+0tJqgXNKT5rIzfJS42N12tkDcxkyzCy7IMZ6OvVExVkN5TSHmndHUxIyRA+OXTHGxUsO8T1gibppa/IGBhWDOq3o/oBBRGKeXG/bRmc2GvA2AwvFNT3lcPC6Rhxr3NZHBKC4waTXRQhicAJ6wuKL8n3CKZqokDHBSC2ZAk84g82hU6uCoJEviKauXyT5P5Ld+GgTGX4Z7srkac83isF+qrE65Qi9acj7kDUyqFrJxNuoNQveu9yJNRdnQNzR5358KEXjXJYyuTY3EBWnrQ/L9ci//3Y935Ljc5M1ns18ky0ld+vXbcUQtxtFT3hgvPTKjZtumA1URTnwxipPb6fJ7nbkEuDJzJ1nZuPieaWcs73OfXA0RMFjY1P5KOaUJHRGw53xPGQjO9siehUr8WSQlicYmpqXNR9Ujki7CFsEbFcShS1jX325TGGFJIAaCJAxoKaGBYdBD7ruJM58gE58iZMMw2HZp49Jl0uThwywQzzx216IDZAVQx9JFXiSzs3ijD1X1tiOMtnvKP9wYsctsPocdmQAsnYFdhTSSFDtbgpnOq95OZ02C/TJQwnQf4Srv0gN88nC+E/tgIas6XUlIqYzjhkd0/hq/KW7FIWkBwQ2EpyK/+iAGWCPGwb4KMNbWQCuPbj04LAM=
-  app: wade-blog-app-mongoose-testing
+  app: whispering-ridge-31482
   on:
     repo: thinkful-cohort-16/wade-blog-app-mongoose-testing
