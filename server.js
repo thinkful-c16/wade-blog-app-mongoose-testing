@@ -15,6 +15,10 @@ app.use(bodyParser.json());
 
 mongoose.Promise = global.Promise;
 
+// Define and create LocalStrategy
+
+
+// routers
 
 app.get('/posts', (req, res) => {
   BlogPost
@@ -107,6 +111,9 @@ app.delete('/:id', (req, res) => {
       res.status(204).end();
     });
 });
+
+// 
+// protected endpoints
 
 
 app.use('*', function(req, res) {
